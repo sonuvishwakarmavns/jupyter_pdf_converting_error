@@ -30,7 +30,7 @@ Solution of pdf converting in jupyter notebook.
     - `C:\Program Files\MiKTeX\miktex\bin\x64`
     - copy the path
 
-- step 3) setup environment variable
+- step 4) setup environment variable
 
     - search for environment variable
     -go to system variable under path section 
